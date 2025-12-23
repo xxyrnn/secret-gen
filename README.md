@@ -17,7 +17,7 @@ cd secret-gen
 Finally run the script:
 ```bash
 python main.py <PASS|PIN> <length> # Windows
-python3 main.py <PASS|PIN> <length> # Linux/MacOS
+python3 main.py <PASS|PIN> <length> # Linux/macOS
 ```
 
 ## Example usage
