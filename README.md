@@ -2,8 +2,6 @@
 
 A Python script to generate random, cryptographically secure passwords and PIN codes
 
----
-
 ## Download
 
 Open a terminal emulator and clone the repository:
